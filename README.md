@@ -1,4 +1,7 @@
 # mongodb-basic
-![mongodb task](./image/Screenshot(1).png);
-![mongodb task](./image/Screenshot(3).png);
-![mongodb task](./image/Screenshot(4).png)
+![mongodb task](./Screenshot(5).png);
+![mongodb task](/image/Screenshot(7).png);
+![mongodb task](./Screenshot(9).png);
+![mongodb task](./Screenshot(12).png);
+![mongodb task](/image/Screenshot(4).png)
+
